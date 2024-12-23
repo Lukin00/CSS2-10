@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main_container{
+    max-width: 1604px;
+    width: 100%;
+    background-color: #E2F7Ff;
+    margin: 0 auto;
+    margin-top: 64px;
+    padding: 96px;
+}
+.wrapper_container{
+    max-width: 1412px;
+    width: 100%;
+    padding: 0px 98px;
+}
+.content_container{
+    max-width: 1280px;
+    width: 100%;
+}
+.main_image{
+    max-width: 1216px;
+    width: 100%;
+
+}
+.author{
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    color: #6941C6;
+}
+.presentations_head{
+    max-width: 1176px;
+    width: 100%;
+    margin-top: 8px;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 38px;
+    color: #181D27;
+    display: inline-block;
+    vertical-align: middle;
+}
+.arrow{
+    display: inline-block;
+    vertical-align: middle;
+}
+.subtitle{
+    margin-top: 8px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #535862;
+}
+.buttons_container{
+    margin-top: 24px;
+    display: flex;
+    gap: 8px;
+}
+.button{
+    padding: 8px 12px;
+    border-radius: 9999px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    gap: 20px;
+}
+.design{
+    background-color: #F9F5FF;
+    border: 1px solid #E9D7FE;
+    color: #6941C6;
+}
+.research{
+    background-color: #EEF4FF;
+    border: 1px solid #C7D7FE;
+    color: #3538CD;
+}
+.presentation{
+    background-color: #FDF2FA;
+    border: 1px solid #FCCEEE;
+    color: #C11574;
+}
+
+.card_wrapper_container{
+    margin-top: 64px;
+}
+.card{
+    display: inline-block;
+    vertical-align: top;
+}
+.card_middle{
+    display: inline-block;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.card_head{
+    margin-top: 8px;
+    max-width: 340px;
+    width: 100%;
+    display: inline-block;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+    color: #181D27;
+    vertical-align: middle;
+}
+.margin{
+    margin-left: 16px;
+}
+.card_text{
+    max-width: 384px;
+    margin-top: 8px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #535862;
+}
+.product{
+    background-color: #F0F9FF;
+    border: 1px solid #B9E6FE;
+    color: #026AA2;
+}
+.tools{
+    background-color: #FDF2FA;
+    border: 1px solid #FCCEEE;
+    color: #C11574;
+}
+.saas{
+    background-color: #FDF2FA;
+    border: 1px solid #FCCEEE;
+    color: #C11574;
+}
+.software_development{
+    background-color: #ECFDF3;
+    border: 1px solid #ABEFC6;
+    color: #067647;
+}
+.managment{
+    background-color: #F8F9FC;
+    border: 1px solid #D5D9EB;
+    color: #363F72;
+}
+.margin_top{
+    margin-top: 48px;
+}
+.leadership{
+    background-color: #F9F5FF;
+    border: 1px solid #E9D7FE;
+    color: #6941C6;
+}
+.framework{
+    background-color: #FEF6EE;
+    border: 1px solid #F9DBAF;
+    color: #B93815;
+}
+.last{
+
+}
